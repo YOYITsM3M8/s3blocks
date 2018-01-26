@@ -1,4 +1,4 @@
-Contents of [scratchblocks.github.io](http://scratchblocks.github.io).
+Contents of [s3blocks.github.io](http://s3blocks.github.io).
 
 ---
 
